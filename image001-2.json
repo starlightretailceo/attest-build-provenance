@@ -1,0 +1,155 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "upload/455174713633de5dd66aa03551f8b775fee0fad9-p.png[0]",
+    "baseName": "455174713633de5dd66aa03551f8b775fee0fad9-p.png",
+    "format": "PNG",
+    "formatDescription": "PNG",
+    "mimeType": "image/png",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 1290,
+      "height": 1101,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 72,
+      "y": 72
+    },
+    "printSize": {
+      "x": 17.917,
+      "y": 15.292
+    },
+    "units": "PixelsPerInch",
+    "type": "TrueColor",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 4260870,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 217.7,
+        "median": 255,
+        "standardDeviation": 81.092,
+        "kurtosis": 2.3312,
+        "skewness": -2.0088,
+        "entropy": 0.19406
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 225.77,
+        "median": 255,
+        "standardDeviation": 77.761,
+        "kurtosis": 4.2658,
+        "skewness": -2.4899,
+        "entropy": 0.18955
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 221.02,
+        "median": 255,
+        "standardDeviation": 77.413,
+        "kurtosis": 3.7131,
+        "skewness": -2.3185,
+        "entropy": 0.1924
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 206.32,
+        "median": 255,
+        "standardDeviation": 88.104,
+        "kurtosis": 0.37604,
+        "skewness": -1.4268,
+        "entropy": 0.20022
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 1290,
+      "height": 1101,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Zip",
+    "orientation": "TopLeft",
+    "properties": {
+      "date:create": "2024-07-19T22:04:09+00:00",
+      "date:modify": "2024-07-19T22:04:09+00:00",
+      "date:timestamp": "2024-07-19T22:04:09+00:00",
+      "exif:ColorSpace": "1",
+      "exif:ExifImageLength": "1101",
+      "exif:ExifImageWidth": "1290",
+      "exif:ExifOffset": "90",
+      "exif:PixelXDimension": "1290",
+      "exif:PixelYDimension": "1101",
+      "png:bKGD": "chunk was found (see Background color, above)",
+      "png:cHRM": "chunk was found (see Chromaticity, above)",
+      "png:IHDR.bit-depth-orig": "8",
+      "png:IHDR.bit_depth": "8",
+      "png:IHDR.color-type-orig": "2",
+      "png:IHDR.color_type": "2 (Truecolor)",
+      "png:IHDR.interlace_method": "0 (Not interlaced)",
+      "png:IHDR.width,height": "1290, 1101",
+      "png:pHYs": "x_res=2834, y_res=2834, units=1",
+      "png:sRGB": "intent=0 (Perceptual Intent)",
+      "png:text": "7 tEXt/zTXt/iTXt chunks were found",
+      "png:text-encoded profiles": "1 were found",
+      "signature": "52565b1cb08f89d8c2559b72571a91a3d92c2d18fc0bda936638ee1a46003ef8"
+    },
+    "profiles": {
+      "exif": {
+        "length": 138
+      }
+    },
+    "tainted": false,
+    "filesize": "246KB",
+    "numberPixels": "1.4203M",
+    "pixelsPerSecond": "28.635MB",
+    "userTime": "0.060u",
+    "elapsedTime": "0:01.049",
+    "version": "ImageMagick 7.1.0-52 Q8 x86 04ee6ce:20221106 https://imagemagick.org"
+  }
+}]
